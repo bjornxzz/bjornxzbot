@@ -27,7 +27,7 @@ Siga os passos abaixo!
 > pkg install nodejs
 > pkg install npm
 > git clone https://github.com/bjornxzz/bjornxzbot.git
-> cd bjorxzbot
+> cd bjornxzbot
 > bash install.sh
 ```
 
@@ -36,7 +36,7 @@ Siga os passos abaixo!
 ```bash
 > npm start
 > leia o códico QR e após isso de um exit
-> cd ptzeus
+> cd bjornxzbot
 > npm i -g pm2
 > pm2 start index.js
 > pm2 monit
